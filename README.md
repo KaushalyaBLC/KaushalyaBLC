@@ -14,13 +14,6 @@ I believe in continuously improving my skills and exploring new concepts in the 
 - Python
 - C
 
-## Projects
-
-Here are some of the projects I've worked on:
-
-1. **Project 1:** A responsive personal website built with HTML, CSS, and JavaScript.
-
-Please check out my [GitHub repositories](https://github.com/KaushalyaBLC) to explore more of my projects.
 
 ## Learning Journey
 
