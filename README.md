@@ -1,8 +1,5 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=KaushalyaBLC&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/KaushalyaBLC?label=Follow%20Me&style=social)  
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  
 
 ---
 
