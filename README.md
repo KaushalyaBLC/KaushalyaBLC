@@ -1,6 +1,5 @@
 # 👋 Welcome to My GitHub Profile!
 
-
 ---
 
 ## 🧑‍💻 About Me
@@ -31,6 +30,7 @@ I'm **Chamath Kaushalya**, a passionate Computer Science undergraduate with a st
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -44,8 +44,13 @@ I believe in the power of **continuous learning**. My current focus includes:
 
 ---
 
-## 📊 GitHub Stats
+## 🎖 Certifications
 
+![Postman API Fundamentals Student Expert](https://img.shields.io/badge/Postman%20API%20Fundamentals-Student%20Expert-orange?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaushalyaBLC&layout=compact&theme=dark&hide_border=true)  
 
