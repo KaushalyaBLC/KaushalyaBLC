@@ -18,7 +18,7 @@
 
 ```javascript
 const chamath = {
-    location: "Kelaniya, Sri Lanka",
+    location: "Kalutara, Sri Lanka",
     education: "BSc (Hons) Computer Science | University of Kelaniya",
     currentGPA: 3.71,
     role: "Associate Software Engineer @ Olee.ai",
