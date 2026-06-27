@@ -29,6 +29,8 @@ I'm a **full-stack software engineer** who builds production software end-to-end
 
 I care about software that ships, holds up in production, and measurably improves how people work.
 
+> 🔨 &nbsp;**Currently building** Meta API automation for CRM lead capture & messaging at Olee AI.
+
 ```typescript
 const chamath: Engineer = {
   role:       "Full-Stack Software Engineer @ Olee AI",
@@ -175,9 +177,30 @@ const chamath: Engineer = {
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KaushalyaBLC&show_icons=true&count_private=true&hide_border=true&rank_icon=github&title_color=1F8FFF&icon_color=1F8FFF&text_color=586069&bg_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushalyaBLC&layout=compact&langs_count=8&hide_border=true&title_color=1F8FFF&text_color=586069&bg_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KaushalyaBLC&show_icons=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&border_color=21262d" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushalyaBLC&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&border_color=21262d" />
 </div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KaushalyaBLC&hide_border=true&background=0D1117&border=21262d&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&stroke=1F4E79&dates=8B949E&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaushalyaBLC&bg_color=0D1117&color=38BDF8&line=2A6FAF&point=ffffff&area=true&area_color=1F4E79&hide_border=true&custom_title=Contribution%20Activity" />
+</div>
+
+<div align="center">
+  <img width="92%" src="https://github-profile-trophy.vercel.app/?username=KaushalyaBLC&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
+
+<br/>
+
+<!-- ============================ WAKATIME ============================ -->
+## ⏱️ &nbsp;Weekly Coding Breakdown
+
+<!--START_SECTION:waka-->
+<!-- This block auto-updates once the WakaTime GitHub Action is configured (see setup notes). -->
+<!--END_SECTION:waka-->
 
 <br/>
 
