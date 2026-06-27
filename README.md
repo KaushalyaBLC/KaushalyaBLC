@@ -156,17 +156,12 @@ const chamath: Engineer = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Axiom — Web & Chat Suite</h4>
-      Interactive 3D marketing site, a Stripe-powered contractor platform and a real-time rich-text chat experience.
-      <br/><br/>
-      <code>Three.js</code> <code>Stripe</code> <code>React</code>
-    </td>
-    <td width="50%" valign="top">
       <h4>🎯 Destinova — AI Career Platform</h4>
       AI-driven career guidance built with the MERN stack and Gemini. <b>Led a 5-person team</b> to launch and reach <b>50+ users in two weeks</b>.
       <br/><br/>
       <code>MERN</code> <code>Gemini</code>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
