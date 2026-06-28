@@ -260,9 +260,7 @@ const chamath: Engineer = {
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaushalyaBLC&bg_color=0D1117&color=38BDF8&line=2A6FAF&point=ffffff&area=true&area_color=1F4E79&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
-<div align="center">
-  <img width="92%" src="https://github-profile-trophy.vercel.app/?username=KaushalyaBLC&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
+
 
 
 <!-- ============================ CONNECT ============================ -->
