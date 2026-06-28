@@ -3,9 +3,7 @@
 <!-- ====================================================================== -->
 
 <!-- ============================ HERO ============================ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A4A,40:1F4E79,100:38BDF8&height=220&section=header&text=Chamath%20Kaushalya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20AI%20%26%20RAG%20Builder&descSize=18&descAlignY=60&animation=fadeIn" />
-</div>
+
 
 <p align="center">
   <a href="https://github.com/KaushalyaBLC">
